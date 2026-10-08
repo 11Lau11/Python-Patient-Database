@@ -8,5 +8,5 @@ A Python terminal-based (CLI) application built for managing patient records, da
 - **Strict Data Validation:** Validates user input (e.g., set-based checking for allowed gender formats and numerical boundary validation for birth years).
 
 ## Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.13.14
 - **Concepts Used:** Data Structures (Lists, Dictionaries, Sets), Control Flow, Input Validation
